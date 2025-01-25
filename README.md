@@ -1,4 +1,5 @@
 # Hiperspektral Beyin Doku Sınıflandırma Üzerine Bir Çalışma
+Bu çalışmada https://hsibraindatabase.iuma.ulpgc.es/ adresindeki veri setinden yararlanılmıştır.
 Hiperspektral görüntülerde beyin doku sınıflandırmasına ait bir çalışma
   
   **hyper_isleme_raw.jpynb** dosyası Ham olan hyperspectral görüntüleri kalibre ederek belirtilen farklı bir klasöre kopyalayıp kullanıma hazır hale getirir.
