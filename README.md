@@ -1,6 +1,6 @@
 # Hiperspektral Beyin Doku Sınıflandırma Üzerine Bir Çalışma
 Hiperspektral görüntülerde beyin doku sınıflandırmasına ait bir çalışma
-  * hyper_isleme_raw.jpynb * dosyası Ham olan hyperspectral görüntüleri kalibre ederek belirtilen farklı bir klasöre kopyalayıp kullanıma hazır hale getirir.
+  ** hyper_isleme_raw.jpynb * dosyası Ham olan hyperspectral görüntüleri kalibre ederek belirtilen farklı bir klasöre kopyalayıp kullanıma hazır hale getirir.
     
   3 Kampanyadan elde edilen hasta görüntülerinin hepsi işlenerek her bir hasta için 4 adet image dosyası oluşturur.
   - (calibrated_raw) Öncelikle siyah-beyaz kalibrasyonu yapılan ve bant sayısı 826 dan 644 e indirgenen bir image dosyası oluşturulur.
