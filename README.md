@@ -1,0 +1,2 @@
+# hiperspektral_beyin_doku_siniflandirma
+Hiperspektral görüntülerde beyin doku sınıflandırmasına ait bir çalışma
